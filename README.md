@@ -12,14 +12,3 @@ Programmer who likes to always be learning and sharing what he knows.
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=wemboava&hide_title=true&include_all_commits=true&count_private=true&hide=issues&show_icons=true&theme=graywhite&title_color=03a9f4)](https://github.com/wemboava)
-
-<!--
-**wemboava/wemboava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
