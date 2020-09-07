@@ -1,5 +1,5 @@
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=wemboava&count_private=true&hide=issues&show_icons=true&theme=graywhite&title_color=03a9f4)](https://github.com/wemboava)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=wemboava&include_all_commits=true&count_private=true&hide=issues&show_icons=true&theme=graywhite&title_color=03a9f4)](https://github.com/wemboava)
 
 <!--
 **wemboava/wemboava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
